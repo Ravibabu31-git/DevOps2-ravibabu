@@ -1,0 +1,34 @@
+
+ci- continous integreation
+cd-continous delivery ayaka deployement avthundhi..
+
+
+to install git
+
+1.git-scm download
+2.download 64 bit if your ram is more than 4gb
+3.after downloading git install it with proper steps ....
+
+
+
+
+IMPLEMENTING:
+
+
+1. create a folder in c drive in name of git.
+2. in that folder create text document like right click and edit text edit
+3. in same folder right click and select the git bash to launch
+
+
+IN GIT BASH:
+
+1. type git status, we can see nothing display on it.
+2. make that folder git init
+3. now it will create a folder in c dive and also the folder will be added in git
+4. then after check status command is git status -s ..shows like A on left side.
+5. and next step is commit it 
+6. we have to mention what we added on it like eg: added 25 line ..like that...
+7. to add file into the git hub first we have have to add the git hub repositary by using command 
+8. after commit -m "added he line 3"
+
+git remote add origin https://github.com/Ravibabu31-git/DevOps-ravibabu.git
